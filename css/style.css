@@ -63,6 +63,12 @@ img {
 	margin:	40px 8px;
 }
 
+button {
+	font-family: "Raleway"
+	font-size: 14px;
+	background-color: #00a6b3;
+}
+
 footer {
 	padding: 0 20px;
 	background-color: #0d2c40;
